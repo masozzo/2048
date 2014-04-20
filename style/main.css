@@ -358,7 +358,7 @@ hr {
     font-size: 0px; } /* 45px */
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
-        font-size: 25px; } }
+        font-size: 0px; /* 25px*/ } }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
     background: #edcc61;
@@ -368,7 +368,7 @@ hr {
     font-size: 0px; } /* 45px */
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+        font-size: 0px; /* 25px*/  } }
   .tile.tile-512 .tile-inner {
     color: #f9f6f2;
     background: #edc850;
